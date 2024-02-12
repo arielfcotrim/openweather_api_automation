@@ -1,0 +1,30 @@
+Temperature and Feels Like Discrepancies Report
+------------------------------------------------
+City: Abu Dhabi
+  TimeAndDate.com (Web) Temperature: 21 °C | OpenWeatherMap (API/DB) Temperature: 20.34 °C
+  TimeAndDate.com (Web) Feels Like: 21 °C | OpenWeatherMap (API/DB) Feels Like: 19.84 °C
+------------------------------------------------
+City: Abuja
+  TimeAndDate.com (Web) Temperature: 32 °C | OpenWeatherMap (API/DB) Temperature: 27.08 °C
+  TimeAndDate.com (Web) Feels Like: 28 °C | OpenWeatherMap (API/DB) Feels Like: 26.06 °C
+------------------------------------------------
+City: Accra
+  TimeAndDate.com (Web) Temperature: 29 °C | OpenWeatherMap (API/DB) Temperature: 28.23 °C
+  TimeAndDate.com (Web) Feels Like: 28 °C | OpenWeatherMap (API/DB) Feels Like: 30.43 °C
+------------------------------------------------
+City: Addis Ababa
+  TimeAndDate.com (Web) Temperature: 17 °C | OpenWeatherMap (API/DB) Temperature: 15.49 °C
+  TimeAndDate.com (Web) Feels Like: 16 °C | OpenWeatherMap (API/DB) Feels Like: 15.11 °C
+------------------------------------------------
+City: Aleppo
+  TimeAndDate.com (Web) Temperature: 8 °C | OpenWeatherMap (API/DB) Temperature: 7.11 °C
+  TimeAndDate.com (Web) Feels Like: 8 °C | OpenWeatherMap (API/DB) Feels Like: 5.54 °C
+------------------------------------------------
+City: Alexandria
+  TimeAndDate.com (Web) Temperature: 14 °C | OpenWeatherMap (API/DB) Temperature: 11.3 °C
+  TimeAndDate.com (Web) Feels Like: 17 °C | OpenWeatherMap (API/DB) Feels Like: 9.97 °C
+------------------------------------------------
+City: Algiers
+  TimeAndDate.com (Web) Temperature: 18 °C | OpenWeatherMap (API/DB) Temperature: 7.9 °C
+  TimeAndDate.com (Web) Feels Like: 11 °C | OpenWeatherMap (API/DB) Feels Like: 7.9 °C
+------------------------------------------------
